@@ -2,4 +2,6 @@
 
 > Status do projeto: em desenvolvimento
 
-NodeJs instalado`
+```
+node number.js
+```
