@@ -2,6 +2,4 @@
 
 > Status do projeto: em desenvolvimento
 
-```
-NodeJs instalado.
-```
+NodeJs instalado`
